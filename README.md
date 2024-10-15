@@ -42,9 +42,21 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Code-Python-%233776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/AI-TensorFlow-%23FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI-PyTorch-%2300B5D4?style=flat&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/Cloud-AWS-%23232F3E?style=flat&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/DevOps-Docker-%230db7ed?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data%20Science-Numpy-%23343434?style=flat&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data%20Science-Pandas-%23150458?style=flat&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data%20Visualization-Seaborn-%2341AE2B?style=flat&logo=seaborn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib-%233D8CFF?style=flat&logo=matplotlib&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI-Keras-%23D00000?style=flat&logo=keras&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI-OpenCV-%232D2D2D?style=flat&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/ML-Scikit%20Learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/ML-TF%20Lite-%236B7DFF?style=flat&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/ML-NLTK-%23479C37?style=flat&logo=nltk&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI-Deep%20Learning-%23B62C0D?style=flat&logo=deep-learning&logoColor=white" />
 </p>
+
 
 ---
 
