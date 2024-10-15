@@ -88,7 +88,7 @@ graph LR;
     2022 --> 2024[Explored AI and ML]
     2023 --> 2024[Worked on Research Projects]
     2024 --> 2024[AI Research Engineer]
-
+```
 ---
 
 ### 🏆 Achievements
