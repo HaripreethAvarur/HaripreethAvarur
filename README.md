@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Haripreeth Dwarakanath Avarur 👋</h1>
+<h1 align="center">Namaskara, I'm Haripreeth Avarur 👋</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/AIML%20Research%20Engineer-%F0%9F%A4%96-blueviolet" alt="AIML Research Engineer Badge" />
