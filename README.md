@@ -69,6 +69,25 @@ graph TD;
     2017[Start of my coding journey in 11th grade] --> 2019[Began B. Tech at SRMIST];
     2019 --> 2023[Completed internships, projects, and publications] --> 2024[AI Research Engineer]
 ```
+### 🚀 My Journey So Far
+
+```mermaid
+graph LR;
+    style 2017 fill:#f9f9f9,stroke:#e0e0e0,stroke-width:1px;
+    style 2018 fill:#f9f9f9,stroke:#e0e0e0,stroke-width:1px;
+    style 2019 fill:#f9f9f9,stroke:#e0e0e0,stroke-width:1px;
+    style 2020 fill:#f9f9f9,stroke:#e0e0e0,stroke-width:1px;
+    style 2021 fill:#f9f9f9,stroke:#e0e0e0,stroke-width:1px;
+    style 2022 fill:#f9f9f9,stroke:#e0e0e0,stroke-width:1px;
+    style 2023 fill:#f9f9f9,stroke:#e0e0e0,stroke-width:1px;
+    style 2024 fill:#f9f9f9,stroke:#e0e0e0,stroke-width:1px;
+
+    2018[Start of my coding journey in 11th grade] --> 2020[Began learning to code]
+    2020 --> 2024[Began B. Tech at SRMIST]
+    2023 --> 2024[Completed internships, projects, and publications]
+    2022 --> 2024[Explored AI and ML]
+    2023 --> 2024[Worked on Research Projects]
+    2024 --> 2024[AI Research Engineer]
 
 ---
 
