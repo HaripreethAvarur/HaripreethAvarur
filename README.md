@@ -58,33 +58,6 @@
     <img src="https://img.shields.io/badge/Quantum%20Computing-Qiskit-%234D8A9C?style=flat&logo=qiskit&logoColor=white" />
 </p>
 
-
----
-
-### 🚀 My Journey So Far
-
-```mermaid
-graph TD;
-    2017-->2018-->2019-->2020-->2021-->2022-->2023;
-    2017[Start of my coding journey in 11th grade] --> 2019[Began B. Tech at SRMIST];
-    2019 --> 2023[Completed internships, projects, and publications] --> 2024[AI Research Engineer]
-```
-### 🚀 My Journey So Far
-
-```mermaid
-graph LR;
-    style 2018 fill:#f1f1f1,stroke:#b0b0b0,stroke-width:1px,rx:10,ry:10;
-    style 2020 fill:#f1f1f1,stroke:#b0b0b0,stroke-width:1px,rx:10,ry:10;
-    style 2023 fill:#f1f1f1,stroke:#b0b0b0,stroke-width:1px,rx:10,ry:10;
-    style 2024 fill:#d6e7ff,stroke:#7a8dbd,stroke-width:2px,rx:10,ry:10;
-    
-    2018[Start of my coding journey in 11th grade] --> 2020[Began learning to code]
-    2020 --> 2023[Began B. Tech at SRMIST]
-    2023 --> 2024[Completed internships, projects, and publications]
-    2024 --> 2024[Explored AI and ML]
-    2024 --> 2024[Worked on Research Projects]
-    2024 --> 2024[AI Research Engineer]
-```
 ---
 
 ### 🏆 Achievements
