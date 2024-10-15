@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Haripreeth Dwarakanath Avarur 👋</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A4%96-blueviolet" alt="AIML Research Engineer Badge" />
+    <img src="https://img.shields.io/badge/AIML%20Research%20Engineer-%F0%9F%A4%96-blueviolet" alt="AIML Research Engineer Badge" />
     <img src="https://img.shields.io/github/followers/HaripreethAvarur?style=social" alt="GitHub Followers" />
     <img src="https://img.shields.io/badge/Quantum%20Computing-Enthusiast-%2398c379" alt="Quantum Computing Badge" />
 </p>
