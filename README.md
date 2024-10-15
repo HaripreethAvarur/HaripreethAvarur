@@ -55,6 +55,7 @@
     <img src="https://img.shields.io/badge/ML-TF%20Lite-%236B7DFF?style=flat&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/ML-NLTK-%23479C37?style=flat&logo=nltk&logoColor=white" />
     <img src="https://img.shields.io/badge/AI-Deep%20Learning-%23B62C0D?style=flat&logo=deep-learning&logoColor=white" />
+    <img src="https://img.shields.io/badge/Quantum%20Computing-Qiskit-%234D8A9C?style=flat&logo=qiskit&logoColor=white" />
 </p>
 
 
