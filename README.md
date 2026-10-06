@@ -1,44 +1,56 @@
-# Haripreeth Avarur
+<div align="center">
+  <img src="banner.png" alt="Haripreeth Avarur" width="100%" />
+</div>
 
-MS Computer Science & Engineering at the University of Michigan. I build applied machine learning systems and like taking an idea from a paper and getting it to actually run on messy, real-world data.
+<br/>
 
-### What I've been building
+Hi, I'm Haripreeth.
 
-- Computer vision: object detection and product grouping (SmartShelf)
-- Audio-visual ML: active speaker detection with on-device deployment (ProjectLip)
-- Multi-agent systems: an open-source framework (maslibpy)
+I build things because I want them to matter. Most of my work lives where AI meets health and the sciences: precision medicine, disease modeling, clinical decision tools, scientific discovery. I'm a perpetual learner, always reading, always experimenting, always pulling apart some new model, tool, or framework just to see how it ticks.
 
-### Currently exploring
+Right now I'm doing an MS in Computer Science and Engineering at the University of Michigan.
 
-- Continual learning, and models that hold up when the data is scarce or changing shape
-- Machine learning applied to scientific problems
+The part I actually love is the niches, the small specific corners of AI where one careful idea makes a real difference. And I've wandered through a lot of those corners.
 
-### Experience
+## Where I've worked across AI
 
-- **KLA** (Deep Learning Engineering Intern): deep learning for semiconductor wafer defect classification
-- **Boltzmann Labs** (AI Research Engineer): machine learning for clinical and scientific applications
-- **University of Michigan** (Research Assistant): applied ML research
+<div align="center">
+  <img src="diagram.png" alt="Areas of AI I've worked across" width="90%" />
+</div>
 
-*Most of this work is proprietary, so the code stays closed. The open work is below.*
+**Vision.** From medical images (a dental caries segmentation model that led to a filed patent and a published paper, plus cross-view gait recognition) to industrial inspection (transfer learning for semiconductor wafer defect detection on painfully scarce labels) to audio-visual systems (working out who is speaking in a video).
 
-### Selected research
+**Language and LLMs.** Pulling structured data out of messy clinical notes, auditing LLM-written summaries against clinician gold standards, framing patient-to-trial eligibility as natural language inference, and semantic search over clinical trials. A fair bit of this is clinical NLP work at Michigan Medicine.
 
-- SRMDent: Dental Caries Segmentation using RAU-Net
-- Human Gait Recognition using a Cross-View Micro Gait Dataset
+**Agents.** I lead [MASLibPy](https://github.com/bayeslabs/maslibpy), an open-source library for multi-agent reasoning (on PyPI), and built the agent orchestration layer inside a clinical-trial platform. I also led a hackathon team that built an agentic retrosynthesis planner.
 
-### Projects
+**Science and health.** This is the center of gravity. Counterfactual epidemic scenario modeling in a research lab, multi-omics models for cancer drug response, digital-twin models of disease progression, and current research on how agents share information, aimed eventually at genomics. Most of it is about causal structure and uncertainty, not just prediction.
 
-- **[ProjectLip_ActiveSpeakerDetection](https://github.com/HaripreethAvarur/ProjectLip_ActiveSpeakerDetection)**: active speaker detection on video. TalkNet (visual) + WebRTC VAD (audio) + Whisper, with confidence-weighted audio-visual fusion, an evaluation suite, and INT8 quantization benchmarked on a Raspberry Pi.
-- **[SmartShelf](https://github.com/HaripreethAvarur/SmartShelf)**: retail shelf product detection and grouping. Custom YOLOv10 on SKU-110K for detection; ResNet50 + SSIM + HDBSCAN for clustering; served through a Flask web app.
-- **[maslibpy](https://github.com/HaripreethAvarur/maslibpy)**: a multi-agent building framework (open source, led during my time at Boltzmann Labs).
-- **[talking-plant](https://github.com/HaripreethAvarur/talking-plant)**: hackathon build with a team. Sensors and a webcam feed a FastAPI backend that gives a plant a live mood and a voice; React frontend, agent chat, Neon store.
+**Systems and inference.** Getting models to actually run: parameter-efficient fine-tuning, quantization and inference benchmarking, distributed training, and HPC.
 
-Earlier work in quantum computing (IBM Quantum Lab) lives in a few of my other repos.
+**Quantum.** An earlier chapter. I led a 25-member quantum computing club, taught the linear algebra and the basics, and still keep a Qiskit repo or two around.
 
-### Tools
+## A few highlights
 
-`Python` · `PyTorch` · `OpenCV` · `FastAPI` · `React` · `Docker` · `AWS`
+- A **patent** (filed) for a dental caries detection method
+- Two **first-author IEEE publications** (medical image segmentation, gait recognition)
+- **[MASLibPy](https://github.com/bayeslabs/maslibpy)**, an open-source multi-agent library, published on PyPI
+- **Runner-up** at the Merck / AWS / NASSCOM Spark-N-Elevate hackathon (agentic retrosynthesis)
 
-### Reach me
+## Always experimenting
+
+Whatever I'm currently playing with lives here, and the list keeps changing:
+
+`Python` · `PyTorch` · `TensorFlow` · `Transformers & LLMs` · `OpenCV` · `GNNs` · `Kalman / particle filters` · `ONNX / TensorRT` · `Docker` · `AWS` · `HPC`
+
+## A few things I've built
+
+Small and public, more sketches than showcases:
+[ProjectLip](https://github.com/HaripreethAvarur/ProjectLip_ActiveSpeakerDetection) ·
+[SmartShelf](https://github.com/HaripreethAvarur/SmartShelf) ·
+[maslibpy](https://github.com/HaripreethAvarur/maslibpy) ·
+[talking-plant](https://github.com/HaripreethAvarur/talking-plant)
+
+## Say hi
 
 [LinkedIn](https://www.linkedin.com/in/haripreeth-avarur/) · hari.avarur@umich.edu
